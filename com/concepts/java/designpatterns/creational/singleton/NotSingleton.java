@@ -1,4 +1,4 @@
-package com.concepts.java.designpatterns.singleton;
+package com.concepts.java.designpatterns.creational.singleton;
 
 /**
  * @author edenilson-mbp
