@@ -12,7 +12,7 @@ public class Customer {
         int investmentAccount = bankService.createNewAccount("investment", BigDecimal.valueOf(1000.00));
 
         /**
-         * Transfer money simulations
+         * Emulates the money transfer
          */
         bankService.transferMoney(mySavingAccount, investmentAccount, new BigDecimal(300));
 
